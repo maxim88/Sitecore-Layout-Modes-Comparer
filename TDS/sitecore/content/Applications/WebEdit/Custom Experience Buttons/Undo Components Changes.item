@@ -1,0 +1,297 @@
+----item----
+version: 1
+id: {D2DDEE23-D659-44B1-9425-E248F8B2848D}
+database: core
+path: /sitecore/content/Applications/WebEdit/Custom Experience Buttons/Undo Components Changes
+parent: {DB662EDF-5965-4848-AD14-BA6BF0D55D1E}
+name: Undo Components Changes
+master: {00000000-0000-0000-0000-000000000000}
+template: {02404208-46D4-49BF-988B-EB363A52A1C9}
+templatekey: WebEdit Button
+
+----field----
+field: {E8CC41C7-C304-4282-B782-E21CA32D324C}
+name: Icon
+key: icon
+content-length: 27
+
+Applications/32x32/undo.png
+----field----
+field: {1BB289D6-44D7-4FCC-AF15-DB32B841F957}
+name: Click
+key: click
+content-length: 29
+
+webedit:undoComponentsChanges
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 27
+
+Applications/32x32/undo.png
+----version----
+language: da
+version: 1
+revision: f222c827-56c3-4f58-a56e-13b936dbf78b
+
+----field----
+field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
+name: Header
+key: header
+content-length: 15
+
+Sorter indhold.
+----field----
+field: {371E0D96-4F00-4B80-AD14-6284E00493BA}
+name: Tooltip
+key: tooltip
+content-length: 17
+
+Sorter indholdet.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Sorter
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160302T162533Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f222c827-56c3-4f58-a56e-13b936dbf78b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160302T162533Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 04038a44-6337-4af7-8d5a-bc640b4b3cdf
+
+----field----
+field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
+name: Header
+key: header
+content-length: 14
+
+Inhalt ordnen.
+----field----
+field: {371E0D96-4F00-4B80-AD14-6284E00493BA}
+name: Tooltip
+key: tooltip
+content-length: 18
+
+Den Inhalt ordnen.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+Sortieren
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160302T162657Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+04038a44-6337-4af7-8d5a-bc640b4b3cdf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160302T162657Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 06309a2f-14c3-42fa-965a-271c1efea192
+
+----field----
+field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
+name: Header
+key: header
+content-length: 12
+
+Undo Changes
+----field----
+field: {371E0D96-4F00-4B80-AD14-6284E00493BA}
+name: Tooltip
+key: tooltip
+content-length: 85
+
+Undo Component Changes on FINAL Layout  for this Item Version of the current Language
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20120222T091100Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+06309a2f-14c3-42fa-965a-271c1efea192
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170227T120109Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: cd8becaa-894f-4e91-ba92-69ffc224ae89
+
+----field----
+field: {C523ABA8-D1A1-4DCB-AEEE-52635A4AB2AE}
+name: Header
+key: header
+content-length: 10
+
+コンテンツの並べ替え
+----field----
+field: {371E0D96-4F00-4B80-AD14-6284E00493BA}
+name: Tooltip
+key: tooltip
+content-length: 13
+
+コンテンツを並べ替えします
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+並べ替え
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160302T162818Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cd8becaa-894f-4e91-ba92-69ffc224ae89
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160302T162818Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
