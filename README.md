@@ -34,7 +34,8 @@ Important:
  
 
 1. Install the module:
-You can find the Layout Modes Comparer on the Sitecore MarketPlace: https://marketplace.sitecore.net/Modules/L/Layout_Modes_Comparer.aspx
+You can find the Layout Modes Comparer on the Sitecore MarketPlace:
+https://github.com/maxim88/Sitecore-Layout-Modes-Comparer/blob/master/Layout%20Modes%20Comparer-1.01.zip or https://marketplace.sitecore.net/Modules/L/Layout_Modes_Comparer.aspx
 
 When you download it, you will get a Sitecore Package that can be installed with the Sitecore Package Installer:
  
@@ -54,10 +55,4 @@ The colors can be configured in the Core DB in the configuration Item “/siteco
 
  
 
- 
-
- 
-
- 
-
-Now your “Layout Modes Comparer” is ready to work. Enjoy 😊
+ Enjoy 😊
